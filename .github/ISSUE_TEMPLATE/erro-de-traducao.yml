@@ -1,0 +1,50 @@
+name: Erro de tradução ou travamento
+description: Encontrou um erro de texto, um trecho sem tradução ou um travamento? Conte aqui.
+title: "[Erro] "
+labels: ["erro"]
+body:
+  - type: dropdown
+    id: jogo
+    attributes:
+      label: Jogo
+      options:
+        - Shenmue (Dreamcast)
+    validations:
+      required: true
+  - type: input
+    id: disco-versao
+    attributes:
+      label: Disco e versão do patch
+      description: Aparece na tela de título e nas opções.
+      placeholder: "Ex.: Disco 1, versão 1.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: Tipo de problema
+      options:
+        - Erro de texto ou ortografia
+        - Texto sem tradução
+        - Texto cortado ou fora da caixa
+        - Travamento ou erro no jogo
+        - Outro
+    validations:
+      required: true
+  - type: textarea
+    id: onde
+    attributes:
+      label: Onde aconteceu
+      description: Local, personagem ou menu. Se for um texto, copie como aparece e diga como deveria ficar.
+    validations:
+      required: true
+  - type: textarea
+    id: print
+    attributes:
+      label: Print da tela
+      description: Arraste a imagem para esta caixa.
+  - type: input
+    id: onde-joga
+    attributes:
+      label: Onde você joga
+      placeholder: "Ex.: Dreamcast com GDEMU, Flycast, Redream"
