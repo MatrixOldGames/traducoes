@@ -11,8 +11,8 @@ Site do projeto: **https://www.matrixoldgames.com.br**
 
 | Plataforma | Jogo | Disco | Versão | Status | Download |
 |---|---|---|---|---|---|
-| Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Disco 1 | 1.1 | Lançado | [Releases](../../releases) |
-| Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Disco 2 | — | Em produção | — |
+| Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Disco 1 | 1.2 | Lançado | [Releases](../../releases) |
+| Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Disco 2 | 1.2 | Lançado | [Releases](../../releases) |
 | Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Disco 3 | — | Em produção | — |
 
 ## Como baixar
