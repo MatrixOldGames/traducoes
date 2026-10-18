@@ -1,55 +1,63 @@
 =====================================================
-   SHENMUE - TRADUÇÃO PT-BR - DISCO 1 - VERSÃO 1.1
-                 Tradução: MatrixHK
+   SHENMUE - TRADUÇÃO PT-BR - VERSÃO 1.2
+           DISCO 1 e DISCO 2
+          Tradução: MatrixHK
 =====================================================
 
 O QUE ESTÁ TRADUZIDO
-- Todas as legendas das cutscenes do Disco 1
+- Todas as legendas das cutscenes dos Discos 1 e 2
 - Legenda da profecia da Shenhua na abertura (no original ela não tem texto)
-- Todas as conversas com moradores (Yamanose, Sakuragaoka e Dobuita)
+- Todas as conversas com moradores: Yamanose, Sakuragaoka, Dobuita e,
+  no Disco 2, também o porto (Novo e Antigo Distrito dos Armazéns)
 - Menus, opções, telas de carregamento, salvar/carregar, cartão de memória
-- Telas do VMU (salvando, carregando, concluído etc.)
+- Telas do VMU (salvando, carregando, concluído etc.) e logo com selo PT-BR
 - Caderno do Ryo, itens, golpes, bússola, avisos e textos do jogo
 - Acentuação completa (á, é, ç, ã, õ etc.)
 - O jogo começa no "Modo Jogo" (voz + legendas) por padrão
+- Capa do GDEMU própria para cada disco
 
 
-NOVIDADES DA VERSÃO 1.1
-- Telas do VMU traduzidas: "Salvando / Não remova o VM", "Carregando",
-  "Aguarde", "Concluído", "Falhou!" e as telas da batalha
-- Logo do Shenmue no VMU com o selo "PT-BR"
-- Correção de gênero nas falas genéricas dos moradores (ex.: um homem
-  dizia "Ando cansada"); essas falas agora são neutras
-- Correção de respostas curtas fora de contexto (ex.: a Noriko
-  respondia "Não, não dei." em vez de "Não, não vi.")
-- Outros pequenos ajustes de texto
-- Tela de título e opções mostram "Versão 1.1"
+NOVIDADES DA VERSÃO 1.2
+- DISCO 2 TRADUZIDO: cutscenes (armazéns do porto, Mestre Chen, porão
+  do dojo e o Espelho da Fênix, viagem para Hong Kong, Jimmy, Chai,
+  Goro...) e todas as conversas com os moradores
+- Disco 1: corrigido o tratamento "o senhor" / "a senhora" nas perguntas
+  do Ryo (ex.: ele perguntava "A senhora conhece um homem chamado
+  Charlie?" para um senhor). Essas perguntas agora são neutras
+- Tela de título e opções mostram "Versão 1.2"
 
 
 O QUE VOCÊ PRECISA
-1. Uma imagem ORIGINAL e sem modificações do Shenmue Disco 1, versão
-   americana (US) v1.003, em formato GDI ou CUE/BIN (Redump).
+1. Imagens ORIGINAIS e sem modificações do Shenmue, versão americana
+   (US) v1.003, Disco 1 e Disco 2, em formato GDI ou CUE/BIN (Redump).
    Este patch NÃO contém o jogo. Use a sua própria cópia.
 2. O programa Universal Dreamcast Patcher (gratuito).
    https://consolemods.org/wiki/Dreamcast:Applying_ROM_Patches
    Ou
    https://github.com/DerekPascarella/UniversalDreamcastPatcher
 
-COMO APLICAR
+COMO APLICAR (repita para cada disco)
 1. Abra o Universal Dreamcast Patcher.
-2. Em "Source Disc Image", escolha o arquivo .gdi (ou .cue) do Disco 1 original.
-3. Em "Patch File", escolha o arquivo Shenmue_Disc_1_PTBR.dcp.
+2. Em "Source Disc Image", escolha o arquivo .gdi (ou .cue) do disco ORIGINAL.
+3. Em "Patch File", escolha o patch do mesmo disco:
+     Disco 1 -> Shenmue_Disc_1_PTBR_1.2.dcp
+     Disco 2 -> Shenmue_Disc_2_PTBR_1.2.dcp
 4. Clique em "Apply Patch".
 5. A imagem traduzida será criada na pasta de saída do programa.
+
+Cuidado para não trocar os discos: o patch do Disco 1 só funciona na
+imagem original do Disco 1, e o do Disco 2 na do Disco 2.
 
 Funciona em: Dreamcast com GDEMU / MODE / USB-GDROM, e em emuladores
 (Flycast, Redream etc.).
 
 
-ATUALIZANDO DA VERSÃO 1.0
-- Aplique o patch 1.1 sobre a imagem ORIGINAL do jogo, e não sobre a
-  imagem já traduzida na versão 1.0.
-- Os saves feitos na versão 1.0 continuam funcionando normalmente.
+ATUALIZANDO DE UMA VERSÃO ANTERIOR (1.0 ou 1.1)
+- Aplique o patch 1.2 sobre a imagem ORIGINAL do jogo, e não sobre a
+  imagem já traduzida.
+- Os saves feitos nas versões anteriores continuam funcionando normalmente.
+- Ao terminar o Disco 1, o jogo pede o Disco 2: basta trocar para a
+  imagem traduzida do Disco 2 e continuar com o mesmo save.
 
 
 OBSERVAÇÕES
@@ -59,7 +67,7 @@ OBSERVAÇÕES
   save é mantido (mude para "Modo Jogo" em Opções > Diálogo e Texto).
 - A tela "Produced by or under license from SEGA" é do console e fica
   em inglês em todas as versões oficiais.
-- Discos 2 e 3: em produção.
+- Disco 3: em produção.
 
 
 Encontrou algum erro de texto? Anote o local/personagem e, se possível,

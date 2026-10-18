@@ -15,6 +15,8 @@ Site do projeto: **https://www.matrixoldgames.com.br**
 | Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Disco 2 | 1.2 | Lançado | [Releases](../../releases) |
 | Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Disco 3 | — | Em produção | — |
 
+Prefere não instalar nada? Aplique a tradução direto no navegador pelo [patcher online](https://www.matrixoldgames.com.br/patcher.html).
+
 ## Como baixar
 
 1. Abra a seção **[Releases](../../releases)**, na lateral direita desta página.
