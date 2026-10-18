@@ -2,6 +2,14 @@
 
 Tradução: **MatrixHK** · Base: Shenmue US v1.003 (GDI ou CUE/BIN, Redump)
 
+## v1.3 (Discos 1, 2 e 3) — tradução completa
+
+- **Disco 3 traduzido:** cutscenes (emprego no porto e a empilhadeira, Goro, Mark, Mad Angels, Terry, o Long Zha, golpes ensinados pelo Mestre Chen, Gui Zhang, Tom e o velho do porto, despedidas do Tom e da Nozomi…) e todas as conversas com moradores, colegas da Alpha Trading, seguranças e trabalhadores do porto
+- Capa do GDEMU própria para o Disco 3
+- Tela de título e opções mostram "Versão 1.3"
+
+**Atualizando da 1.0, 1.1 ou 1.2:** aplique o patch 1.3 sobre a imagem ORIGINAL de cada disco, não sobre a imagem já traduzida. Os saves das versões anteriores continuam funcionando. Atualize os três discos para a 1.3, para manter o mesmo texto e a mesma versão nos menus do começo ao fim.
+
 ## v1.2 (Discos 1 e 2)
 
 - **Disco 2 traduzido:** cutscenes (armazéns do porto, Mestre Chen, porão do dojo e o Espelho da Fênix, viagem para Hong Kong, Jimmy, Chai, Goro…) e todas as conversas com os moradores, incluindo o porto (Novo e Antigo Distrito dos Armazéns)
@@ -27,7 +35,3 @@ Tradução: **MatrixHK** · Base: Shenmue US v1.003 (GDI ou CUE/BIN, Redump)
 ### v1.0
 
 - Primeira versão pública do Disco 1.
-
-## Disco 3
-
-Em produção.
