@@ -1,5 +1,5 @@
 =====================================================
-   SHENMUE - TRADUÇÃO PT-BR - VERSÃO 1.3
+   SHENMUE - TRADUÇÃO PT-BR - VERSÃO 1.4
         DISCO 1, DISCO 2 e DISCO 3
           Tradução: MatrixHK
 =====================================================
@@ -17,6 +17,13 @@ O QUE ESTÁ TRADUZIDO
 - Capa do GDEMU própria para cada disco
 
 
+NOVIDADES DA VERSÃO 1.4
+- Menu de "ir rápido" no portão de casa ("Para onde você quer ir?")
+  traduzido nos três discos (antes aparecia em inglês)
+- Telas do VMU agora dizem "Não remova o VMU", o termo usado no Brasil
+- Novo rodapé nas telas de título e menu: "Ver. 1.4 - Tradução - MatrixHK",
+  com fonte mais legível, inclusive em TV de tubo
+
 NOVIDADES DA VERSÃO 1.3
 - DISCO 3 TRADUZIDO: cutscenes (emprego no porto e a empilhadeira, Goro,
   Mark, Mad Angels, Terry, o Long Zha, golpes ensinados pelo Mestre Chen,
@@ -24,7 +31,6 @@ NOVIDADES DA VERSÃO 1.3
   e todas as conversas com moradores, colegas da Alpha Trading,
   seguranças e trabalhadores do porto
 - Capa do GDEMU própria para o Disco 3
-- Tela de título e opções mostram "Versão 1.3"
 
 NOVIDADES DA VERSÃO 1.2
 - Disco 2 traduzido (cutscenes e conversas)
@@ -45,9 +51,9 @@ COMO APLICAR (repita para cada disco)
 1. Abra o Universal Dreamcast Patcher.
 2. Em "Source Disc Image", escolha o arquivo .gdi (ou .cue) do disco ORIGINAL.
 3. Em "Patch File", escolha o patch do mesmo disco:
-     Disco 1 -> Shenmue_Disc_1_PTBR_1.3.dcp
-     Disco 2 -> Shenmue_Disc_2_PTBR_1.3.dcp
-     Disco 3 -> Shenmue_Disc_3_PTBR_1.3.dcp
+     Disco 1 -> Shenmue_Disc_1_PTBR_1.4.dcp
+     Disco 2 -> Shenmue_Disc_2_PTBR_1.4.dcp
+     Disco 3 -> Shenmue_Disc_3_PTBR_1.4.dcp
 4. Clique em "Apply Patch".
 5. A imagem traduzida será criada na pasta de saída do programa.
 
@@ -59,13 +65,13 @@ Funciona em: Dreamcast com GDEMU / MODE / USB-GDROM, e em emuladores
 (Flycast, Redream etc.).
 
 
-ATUALIZANDO DE UMA VERSÃO ANTERIOR (1.0, 1.1 ou 1.2)
-- Aplique o patch 1.3 sobre a imagem ORIGINAL do jogo, e não sobre a
+ATUALIZANDO DE UMA VERSÃO ANTERIOR (1.0 a 1.3)
+- Aplique o patch 1.4 sobre a imagem ORIGINAL do jogo, e não sobre a
   imagem já traduzida.
 - Os saves feitos nas versões anteriores continuam funcionando normalmente.
 - Quando o jogo pedir o próximo disco, basta trocar para a imagem
   traduzida desse disco e continuar com o mesmo save.
-- Atualize os três discos para a 1.3, para manter o mesmo texto e a
+- Atualize os três discos para a 1.4, para manter o mesmo texto e a
   mesma versão nos menus do começo ao fim.
 
 

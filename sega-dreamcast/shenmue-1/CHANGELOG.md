@@ -2,6 +2,14 @@
 
 Tradução: **MatrixHK** · Base: Shenmue US v1.003 (GDI ou CUE/BIN, Redump)
 
+## v1.4 (Discos 1, 2 e 3)
+
+- Menu de "ir rápido" no portão de casa ("Para onde você quer ir?") traduzido nos três discos (antes aparecia em inglês)
+- Telas do VMU agora dizem "Não remova o VMU", o termo usado no Brasil
+- Novo rodapé nas telas de título e menu: "Ver. 1.4 - Tradução - MatrixHK", com fonte mais legível, inclusive em TV de tubo
+
+**Atualizando da 1.0 a 1.3:** aplique o patch 1.4 sobre a imagem ORIGINAL de cada disco, não sobre a imagem já traduzida. Os saves das versões anteriores continuam funcionando. Atualize os três discos para a 1.4.
+
 ## v1.3 (Discos 1, 2 e 3) — tradução completa
 
 - **Disco 3 traduzido:** cutscenes (emprego no porto e a empilhadeira, Goro, Mark, Mad Angels, Terry, o Long Zha, golpes ensinados pelo Mestre Chen, Gui Zhang, Tom e o velho do porto, despedidas do Tom e da Nozomi…) e todas as conversas com moradores, colegas da Alpha Trading, seguranças e trabalhadores do porto

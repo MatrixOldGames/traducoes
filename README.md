@@ -11,9 +11,9 @@ Site do projeto: **https://www.matrixoldgames.com.br**
 
 | Plataforma | Jogo | Disco | Versão | Status | Download |
 |---|---|---|---|---|---|
-| Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Disco 1 | 1.3 | Lançado | [Releases](../../releases) |
-| Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Disco 2 | 1.3 | Lançado | [Releases](../../releases) |
-| Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Disco 3 | 1.3 | Lançado | [Releases](../../releases) |
+| Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Disco 1 | 1.4 | Lançado | [Releases](../../releases) |
+| Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Disco 2 | 1.4 | Lançado | [Releases](../../releases) |
+| Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Disco 3 | 1.4 | Lançado | [Releases](../../releases) |
 | Sega Dreamcast | Shenmue II | Disco 1 | — | Em produção | — |
 
 **Shenmue está 100% traduzido.** O Shenmue Passport (4º disco, extras online) não faz parte da tradução.
