@@ -1,0 +1,78 @@
+=====================================================
+   SHENMUE II - TRADUÇÃO PT-BR - VERSÃO 1.0
+                    DISCO 1
+              Tradução: MatrixHK
+=====================================================
+
+O QUE ESTÁ TRADUZIDO
+- Todas as legendas das cutscenes do Disco 1 (Aberdeen e Wan Chai)
+- Todas as conversas com moradores, comerciantes e NPCs do Disco 1
+- Tela de título ("APERTE O BOTÃO START"), menus, opções, telas de
+  carregamento, salvar/carregar e cartão de memória
+- Telas do VMU (salvando, carregando, concluído etc.)
+- Nomes de lugares nas telas de carregamento e no mapa (a parte genérica
+  e descritiva foi traduzida; nomes próprios ficaram como no original)
+- Caderno do Ryo, itens, coleção, lista de golpes, ajudas e instruções
+  dos minigames e trabalhos, avisos e textos do jogo
+- Acentuação completa (á, é, ç, ã, õ etc.)
+
+
+O QUE VOCÊ PRECISA
+1. Imagem ORIGINAL e sem modificações do Shenmue II, versão europeia
+   (PAL), Disco 1, em formato GDI ou CUE/BIN (Redump).
+   Este patch NÃO contém o jogo. Use a sua própria cópia.
+2. O programa Universal Dreamcast Patcher (gratuito).
+   https://consolemods.org/wiki/Dreamcast:Applying_ROM_Patches
+   Ou
+   https://github.com/DerekPascarella/UniversalDreamcastPatcher
+
+COMO APLICAR
+1. Abra o Universal Dreamcast Patcher.
+2. Em "Source Disc Image", escolha o arquivo .gdi (ou .cue) do Disco 1
+   ORIGINAL do Shenmue II PAL.
+3. Em "Patch File", escolha: Shenmue2_Disc_1_PTBR_1.0.dcp
+4. Clique em "Apply Patch".
+5. A imagem traduzida será criada na pasta de saída do programa.
+
+Funciona em: Dreamcast com GDEMU / MODE / USB-GDROM, e em emuladores 
+(Flycast, Redream etc.).
+
+
+IDIOMA DO JOGO
+- A versão europeia tem vários idiomas. A tradução PT-BR ocupa o lugar
+  do INGLÊS. Se o jogo aparecer em outro idioma, ajuste o idioma do
+  Dreamcast (ou do emulador) para English.
+
+
+SAVE DO SHENMUE (PRIMEIRO JOGO)
+- O Shenmue II traduzido aceita o save de final de jogo do Shenmue 1
+  tanto da versão europeia (PAL) quanto da americana (US), incluindo o
+  save da tradução PT-BR do Shenmue 1 da Matrix Old Games. Não é
+  preciso converter o save.
+
+
+OBSERVAÇÕES
+- Use sempre a imagem ORIGINAL. Aplicar sobre uma imagem já modificada
+  pode dar erro ou travar o jogo.
+- Por enquanto apenas o Disco 1 está traduzido. Os Discos 2, 3 e 4
+  virão nas próximas versões. Ao trocar para um disco ainda não
+  traduzido, o jogo continua normalmente, mas em inglês.
+- A tela "Produced by or under license from SEGA" é do console e fica
+  em inglês em todas as versões oficiais.
+- Os nomes dos golpes ficaram em inglês, como no Shenmue 1
+  (ex.: Swallow Flip, Tornado Kick).
+- As vozes continuam em japonês; a tradução está nas legendas e textos.
+
+
+Encontrou algum erro de texto? Anote o local/personagem e, se possível,
+tire um print da tela e envie para MatrixHK:
+  E-mail:    matrixoldgames@gmail.com
+  Site:      matrixoldgames.com.br
+  Instagram: instagram.com/MatrixOldGames  Youtube:   youtube.com/@matrixoldgames
+
+Gostou do trabalho? A tradução é gratuita. Se quiser apoiar o projeto:
+  Pix:     matrixoldgames@gmail.com (Leandro de Almeida Alonso Garcia)
+  itch.io: https://matrixoldgames.itch.io
+
+Shenmue é marca registrada da SEGA. Esta é uma tradução de fãs, sem fins
+lucrativos e sem vínculo com a SEGA. Não distribua o jogo, apenas o patch.
