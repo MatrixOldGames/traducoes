@@ -1,12 +1,34 @@
 =====================================================
-   SHENMUE II - TRADUÇÃO PT-BR - VERSÃO 1.0
-                    DISCO 1
+   SHENMUE II - TRADUÇÃO PT-BR - VERSÃO 1.1
+                  DISCOS 1 E 2
               Tradução: MatrixHK
 =====================================================
 
-O QUE ESTÁ TRADUZIDO
-- Todas as legendas das cutscenes do Disco 1 (Aberdeen e Wan Chai)
-- Todas as conversas com moradores, comerciantes e NPCs do Disco 1
+NOVIDADES DA VERSÃO 1.1
+- DISCO 2 TRADUZIDO POR COMPLETO (Wan Chai e Aberdeen, até a partida
+  para Kowloon): todas as legendas das cutscenes e todas as conversas
+  com moradores, comerciantes e NPCs.
+- Disco 1 revisado:
+  * Corrigido o travamento na tela de mapas (lista de bairros de
+    Wan Chai). Nomes da lista ajustados ao limite do jogo.
+  * Nomes de lugares padronizados em todo o jogo: tipo do lugar
+    traduzido + nome próprio (ex.: Casa de Penhores Mercado Verde,
+    Café Moon, Café dos Pombos, Shopping Dourado, Bairro Carmain do
+    Sul). O bar Swing ficou com o nome original.
+  * Menu rápido: "Local de Ontem" e "Carmain do Sul".
+  * Lishao Tao passa a ser tratada como "a Mestra" depois que o Ryo
+    descobre quem ela é.
+  * Nomes dos golpes sempre em inglês (ex.: Iron Palm).
+  * Caderno do Ryo: anotações sobre artes marciais corrigidas.
+  * Opções de diálogo com a Fangmei corrigidas ("Você Consegue",
+    "Esforce-se").
+  * Telas de carregamento e placas de nomes de bairros revisadas.
+  * Número da versão atualizado nas telas de título e de opções.
+
+
+O QUE ESTÁ TRADUZIDO (DISCOS 1 E 2)
+- Todas as legendas das cutscenes
+- Todas as conversas com moradores, comerciantes e NPCs
 - Tela de título ("APERTE O BOTÃO START"), menus, opções, telas de
   carregamento, salvar/carregar e cartão de memória
 - Telas do VMU (salvando, carregando, concluído etc.)
@@ -15,26 +37,33 @@ O QUE ESTÁ TRADUZIDO
 - Caderno do Ryo, itens, coleção, lista de golpes, ajudas e instruções
   dos minigames e trabalhos, avisos e textos do jogo
 - Acentuação completa (á, é, ç, ã, õ etc.)
+- Capa de cada disco para o GDEMU
 
 
 O QUE VOCÊ PRECISA
-1. Imagem ORIGINAL e sem modificações do Shenmue II, versão europeia
-   (PAL), Disco 1, em formato GDI ou CUE/BIN (Redump).
+1. Imagens ORIGINAIS e sem modificações do Shenmue II, versão europeia
+   (PAL), Discos 1 e 2, em formato GDI ou CUE/BIN (Redump).
    Este patch NÃO contém o jogo. Use a sua própria cópia.
 2. O programa Universal Dreamcast Patcher (gratuito).
    https://consolemods.org/wiki/Dreamcast:Applying_ROM_Patches
    Ou
    https://github.com/DerekPascarella/UniversalDreamcastPatcher
 
-COMO APLICAR
+COMO APLICAR (repita para cada disco)
 1. Abra o Universal Dreamcast Patcher.
-2. Em "Source Disc Image", escolha o arquivo .gdi (ou .cue) do Disco 1
+2. Em "Source Disc Image", escolha o arquivo .gdi (ou .cue) do disco
    ORIGINAL do Shenmue II PAL.
-3. Em "Patch File", escolha: Shenmue2_Disc_1_PTBR_1.0.dcp
+3. Em "Patch File", escolha o patch do mesmo disco:
+     Disco 1: Shenmue2_Disc_1_PTBR_1.1.dcp
+     Disco 2: Shenmue2_Disc_2_PTBR_1.1.dcp
 4. Clique em "Apply Patch".
 5. A imagem traduzida será criada na pasta de saída do programa.
 
-Funciona em: Dreamcast com GDEMU / MODE / USB-GDROM, e em emuladores 
+Quem já tem a versão 1.0: aplique o patch 1.1 do Disco 1 sobre a imagem
+ORIGINAL (não sobre a imagem já traduzida). Os saves da versão 1.0
+continuam funcionando.
+
+Funciona em: Dreamcast com GDEMU / MODE / USB-GDROM, e em emuladores
 (Flycast, Redream etc.).
 
 
@@ -52,23 +81,25 @@ SAVE DO SHENMUE (PRIMEIRO JOGO)
 
 
 OBSERVAÇÕES
-- Use sempre a imagem ORIGINAL. Aplicar sobre uma imagem já modificada
-  pode dar erro ou travar o jogo.
-- Por enquanto apenas o Disco 1 está traduzido. Os Discos 2, 3 e 4
-  virão nas próximas versões. Ao trocar para um disco ainda não
-  traduzido, o jogo continua normalmente, mas em inglês.
+- Use sempre as imagens ORIGINAIS. Aplicar sobre uma imagem já
+  modificada pode dar erro ou travar o jogo.
+- Os Discos 1 e 2 estão traduzidos. Os Discos 3 e 4 virão nas próximas
+  versões. Ao trocar para um disco ainda não traduzido, o jogo continua
+  normalmente, mas em inglês.
 - A tela "Produced by or under license from SEGA" é do console e fica
   em inglês em todas as versões oficiais.
 - Os nomes dos golpes ficaram em inglês, como no Shenmue 1
-  (ex.: Swallow Flip, Tornado Kick).
-- As vozes continuam em japonês; a tradução está nas legendas e textos.
+  (ex.: Swallow Flip, Tornado Kick, Iron Palm).
+- Nomes de gangues e de alguns estabelecimentos ficaram como no
+  original (ex.: Heavens, Lucky Hit, Swing).
+- As vozes continuam em inglês; a tradução está nas legendas e textos.
 
 
 Encontrou algum erro de texto? Anote o local/personagem e, se possível,
 tire um print da tela e envie para MatrixHK:
   E-mail:    matrixoldgames@gmail.com
   Site:      matrixoldgames.com.br
-  Instagram: instagram.com/MatrixOldGames  Youtube:   youtube.com/@matrixoldgames
+  Instagram: instagram.com/MatrixOldGames
 
 Gostou do trabalho? A tradução é gratuita. Se quiser apoiar o projeto:
   Pix:     matrixoldgames@gmail.com (Leandro de Almeida Alonso Garcia)
