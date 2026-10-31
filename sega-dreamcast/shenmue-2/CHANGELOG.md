@@ -2,6 +2,16 @@
 
 Tradução: **MatrixHK** · Base: Shenmue II Europa (PAL) v1.001 (GDI ou CUE/BIN, Redump)
 
+## v1.2 (Discos 1, 2 e 3)
+
+- **Disco 3 traduzido por completo** (Kowloon): todas as legendas das cutscenes e todas as conversas com moradores, comerciantes e NPCs
+  - Nomes dos prédios e bairros de Kowloon traduzidos, seguindo o mesmo padrão dos discos anteriores (ex.: Prédio Cabeça Amarela, Prédio Filho da Lua, Prédio Bela Vista, Bairro das Barracas, Bairro do Dim Sum, Rua do Dragão)
+  - Lojas: tipo do lugar traduzido + nome próprio (ex.: Pássaros Nine Birds, Restaurante Everyone's, Casa de Chá Nihao, Café Anna)
+  - Gangues com o nome original (Heavens, Yellow Head)
+- Número da versão atualizado nas telas de título e de opções dos três discos
+
+**Quem já tem a 1.0 ou a 1.1:** aplique os patches 1.2 sobre as imagens ORIGINAIS, não sobre as imagens já traduzidas. Atualize os Discos 1 e 2 também, para todos ficarem na mesma versão. Os saves das versões anteriores continuam funcionando.
+
 ## v1.1 (Discos 1 e 2)
 
 - **Disco 2 traduzido por completo** (Wan Chai e Aberdeen, até a partida para Kowloon): todas as legendas das cutscenes e todas as conversas com moradores, comerciantes e NPCs

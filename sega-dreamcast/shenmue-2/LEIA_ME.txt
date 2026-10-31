@@ -1,10 +1,24 @@
 =====================================================
-   SHENMUE II - TRADUÇÃO PT-BR - VERSÃO 1.1
-                  DISCOS 1 E 2
+   SHENMUE II - TRADUÇÃO PT-BR - VERSÃO 1.2
+                DISCOS 1, 2 E 3
               Tradução: MatrixHK
 =====================================================
 
-NOVIDADES DA VERSÃO 1.1
+NOVIDADES DA VERSÃO 1.2
+- DISCO 3 TRADUZIDO POR COMPLETO (Kowloon): todas as legendas das
+  cutscenes e todas as conversas com moradores, comerciantes e NPCs.
+  * Nomes dos prédios e bairros de Kowloon traduzidos, seguindo o mesmo
+    padrão dos discos anteriores (ex.: Prédio Cabeça Amarela, Prédio
+    Filho da Lua, Prédio Bela Vista, Bairro das Barracas, Bairro do
+    Dim Sum, Rua do Dragão).
+  * Lojas: tipo do lugar traduzido + nome próprio (ex.: Pássaros Nine
+    Birds, Restaurante Everyone's, Casa de Chá Nihao, Café Anna).
+  * Gangues com o nome original (Heavens, Yellow Head).
+- Número da versão atualizado nas telas de título e de opções dos
+  três discos.
+
+
+NOVIDADES DA VERSÃO 1.1 (DISCOS 1 E 2)
 - DISCO 2 TRADUZIDO POR COMPLETO (Wan Chai e Aberdeen, até a partida
   para Kowloon): todas as legendas das cutscenes e todas as conversas
   com moradores, comerciantes e NPCs.
@@ -26,7 +40,7 @@ NOVIDADES DA VERSÃO 1.1
   * Número da versão atualizado nas telas de título e de opções.
 
 
-O QUE ESTÁ TRADUZIDO (DISCOS 1 E 2)
+O QUE ESTÁ TRADUZIDO (DISCOS 1, 2 E 3)
 - Todas as legendas das cutscenes
 - Todas as conversas com moradores, comerciantes e NPCs
 - Tela de título ("APERTE O BOTÃO START"), menus, opções, telas de
@@ -42,7 +56,7 @@ O QUE ESTÁ TRADUZIDO (DISCOS 1 E 2)
 
 O QUE VOCÊ PRECISA
 1. Imagens ORIGINAIS e sem modificações do Shenmue II, versão europeia
-   (PAL), Discos 1 e 2, em formato GDI ou CUE/BIN (Redump).
+   (PAL), Discos 1, 2 e 3, em formato GDI ou CUE/BIN (Redump).
    Este patch NÃO contém o jogo. Use a sua própria cópia.
 2. O programa Universal Dreamcast Patcher (gratuito).
    https://consolemods.org/wiki/Dreamcast:Applying_ROM_Patches
@@ -54,14 +68,17 @@ COMO APLICAR (repita para cada disco)
 2. Em "Source Disc Image", escolha o arquivo .gdi (ou .cue) do disco
    ORIGINAL do Shenmue II PAL.
 3. Em "Patch File", escolha o patch do mesmo disco:
-     Disco 1: Shenmue2_Disc_1_PTBR_1.1.dcp
-     Disco 2: Shenmue2_Disc_2_PTBR_1.1.dcp
+     Disco 1: Shenmue2_Disc_1_PTBR_1.2.dcp
+     Disco 2: Shenmue2_Disc_2_PTBR_1.2.dcp
+     Disco 3: Shenmue2_Disc_3_PTBR_1.2.dcp
 4. Clique em "Apply Patch".
 5. A imagem traduzida será criada na pasta de saída do programa.
 
-Quem já tem a versão 1.0: aplique o patch 1.1 do Disco 1 sobre a imagem
-ORIGINAL (não sobre a imagem já traduzida). Os saves da versão 1.0
-continuam funcionando.
+Quem já tem a versão 1.0 ou 1.1: aplique os patches 1.2 sobre as
+imagens ORIGINAIS (não sobre as imagens já traduzidas). Atualize os
+Discos 1 e 2 também, para todos ficarem na mesma versão. Os saves das
+versões anteriores continuam funcionando; ao terminar o Disco 2, é só
+trocar para a imagem traduzida do Disco 3 e continuar.
 
 Funciona em: Dreamcast com GDEMU / MODE / USB-GDROM, e em emuladores
 (Flycast, Redream etc.).
@@ -83,15 +100,15 @@ SAVE DO SHENMUE (PRIMEIRO JOGO)
 OBSERVAÇÕES
 - Use sempre as imagens ORIGINAIS. Aplicar sobre uma imagem já
   modificada pode dar erro ou travar o jogo.
-- Os Discos 1 e 2 estão traduzidos. Os Discos 3 e 4 virão nas próximas
-  versões. Ao trocar para um disco ainda não traduzido, o jogo continua
-  normalmente, mas em inglês.
+- Os Discos 1, 2 e 3 estão traduzidos. O Disco 4 virá na próxima
+  versão. Ao trocar para ele, o jogo continua normalmente, mas em
+  inglês.
 - A tela "Produced by or under license from SEGA" é do console e fica
   em inglês em todas as versões oficiais.
 - Os nomes dos golpes ficaram em inglês, como no Shenmue 1
   (ex.: Swallow Flip, Tornado Kick, Iron Palm).
 - Nomes de gangues e de alguns estabelecimentos ficaram como no
-  original (ex.: Heavens, Lucky Hit, Swing).
+  original (ex.: Heavens, Yellow Head, Lucky Hit, Swing).
 - As vozes continuam em inglês; a tradução está nas legendas e textos.
 
 

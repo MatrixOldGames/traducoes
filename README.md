@@ -11,12 +11,10 @@ Site do projeto: **https://www.matrixoldgames.com.br**
 
 | Plataforma | Jogo | Disco | Versão | Status | Download |
 |---|---|---|---|---|---|
-| Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Disco 1 | 1.4 | Lançado | [Releases](../../releases) |
-| Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Disco 2 | 1.4 | Lançado | [Releases](../../releases) |
-| Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Disco 3 | 1.4 | Lançado | [Releases](../../releases) |
-| Sega Dreamcast | [Shenmue II](sega-dreamcast/shenmue-2/) | Disco 1 | 1.1 | Lançado | [Releases](../../releases) |
-| Sega Dreamcast | [Shenmue II](sega-dreamcast/shenmue-2/) | Disco 2 | 1.1 | Lançado | [Releases](../../releases) |
-| Sega Dreamcast | Shenmue II | Discos 3 e 4 | — | Em produção | — |
+| Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Discos 1, 2 e 3 | 1.4 | Lançado | [Baixar a v1.4](../../releases/tag/shenmue1_v1.4) |
+| Sega Dreamcast | [Shenmue II](sega-dreamcast/shenmue-2/) | Discos 1, 2 e 3 | 1.2 | Lançado | [Baixar a v1.2](../../releases/tag/shenmue2_v1.2) |
+| Sega Dreamcast | Shenmue II | Disco 4 | — | Em produção | — |
+| Sega Dreamcast | Phantasy Star Online Ver.2 | GD-ROM | — | Próximo projeto | — |
 
 **Shenmue está 100% traduzido.** O Shenmue Passport (4º disco, extras online) não faz parte da tradução.
 
@@ -24,9 +22,9 @@ Prefere não instalar nada? Aplique a tradução direto no navegador pelo [patch
 
 ## Como baixar
 
-1. Abra a seção **[Releases](../../releases)**, na lateral direita desta página.
-2. Escolha o jogo, o disco e a versão.
-3. Em **Assets**, baixe o arquivo `.dcp` e o `LEIA_ME.txt`.
+1. Na tabela acima, clique em **Baixar** na linha do jogo. O link abre direto a versão mais recente.
+2. Em **Assets**, baixe o arquivo `.dcp` de cada disco e o `LEIA_ME.txt`.
+3. Versões antigas continuam na seção **[Releases](../../releases)**.
 
 Cada pasta de jogo tem o `LEIA_ME.txt` com os requisitos e o passo a passo para aplicar o patch.
 
