@@ -2,6 +2,17 @@
 
 Tradução: **MatrixHK** · Base: Shenmue II Europa (PAL) v1.001 (GDI ou CUE/BIN, Redump)
 
+## v1.3 (Discos 1, 2, 3 e 4) — tradução completa
+
+- **Disco 4 traduzido por completo** (Guilin e a Vila Bailu, até o final): todas as legendas das cutscenes, todas as conversas com a Shenhua pelo caminho e todas as falas de moradores e viajantes
+- Filme Resumo (resumo do Shenmue 1, exclusivo do Disco 4): o vídeo agora tem legendas completas em português, aplicadas direto no vídeo. O botão do menu passou a ser "B: VOLTAR"
+- Shenmue Collection (exclusivo do Disco 4): menus, títulos, botões, nomes dos minigames e lutadores e todas as descrições traduzidos
+- Créditos finais: os créditos da equipe original continuam em inglês, como nas versões oficiais. O crédito da tradução aparece numa tela separada, logo antes de "Directed & Produced By"
+- Capa do Disco 4 para o GDEMU
+- Número da versão atualizado nas telas de título e de opções dos quatro discos
+
+**Quem já tem uma versão anterior (1.0 a 1.2):** aplique os patches 1.3 sobre as imagens ORIGINAIS, não sobre as imagens já traduzidas. Atualize os Discos 1 a 3 também, para todos ficarem na mesma versão. Os saves das versões anteriores continuam funcionando.
+
 ## v1.2 (Discos 1, 2 e 3)
 
 - **Disco 3 traduzido por completo** (Kowloon): todas as legendas das cutscenes e todas as conversas com moradores, comerciantes e NPCs

@@ -12,11 +12,10 @@ Site do projeto: **https://www.matrixoldgames.com.br**
 | Plataforma | Jogo | Disco | Versão | Status | Download |
 |---|---|---|---|---|---|
 | Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Discos 1, 2 e 3 | 1.4 | Lançado | [Baixar a v1.4](../../releases/tag/shenmue1_v1.4) |
-| Sega Dreamcast | [Shenmue II](sega-dreamcast/shenmue-2/) | Discos 1, 2 e 3 | 1.2 | Lançado | [Baixar a v1.2](../../releases/tag/shenmue2_v1.2) |
-| Sega Dreamcast | Shenmue II | Disco 4 | — | Em produção | — |
-| Sega Dreamcast | Phantasy Star Online Ver.2 | GD-ROM | — | Próximo projeto | — |
+| Sega Dreamcast | [Shenmue II](sega-dreamcast/shenmue-2/) | Discos 1, 2, 3 e 4 | 1.3 | Lançado | [Baixar a v1.3](../../releases/tag/shenmue2_v1.3) |
+| Sega Dreamcast | Phantasy Star Online Ver.2 (US v1.004) | GD-ROM | — | Em produção | — |
 
-**Shenmue está 100% traduzido.** O Shenmue Passport (4º disco, extras online) não faz parte da tradução.
+**Shenmue e Shenmue II estão 100% traduzidos.** O Shenmue Passport (4º disco do Shenmue, extras online) não faz parte da tradução.
 
 Prefere não instalar nada? Aplique a tradução direto no navegador pelo [patcher online](https://www.matrixoldgames.com.br/patcher.html).
 
