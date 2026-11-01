@@ -2,6 +2,13 @@
 
 Tradução: **MatrixHK** · Base: Shenmue US v1.003 (GDI ou CUE/BIN, Redump)
 
+## v1.5 (Discos 1, 2 e 3)
+
+- **Disco 2:** traduzidas 571 falas que ainda apareciam em inglês, entre elas o Ryo olhando o relógio à noite ("Olha a hora..." / hora de ir para casa ou de dormir), "Ninguém em casa?", "Quase na hora de fechar", algumas conversas com moradores e pensamentos do Ryo (procurar o Espelho, comprar a passagem, falta de dinheiro)
+- Rodapé das telas de título e menu atualizado para "Ver. 1.5"
+
+**Atualizando da 1.0 a 1.4:** aplique o patch 1.5 sobre a imagem ORIGINAL de cada disco, não sobre a imagem já traduzida. Os saves das versões anteriores continuam funcionando. Atualize os três discos para a 1.5.
+
 ## v1.4 (Discos 1, 2 e 3)
 
 - Menu de "ir rápido" no portão de casa ("Para onde você quer ir?") traduzido nos três discos (antes aparecia em inglês)

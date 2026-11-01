@@ -11,7 +11,7 @@ Site do projeto: **https://www.matrixoldgames.com.br**
 
 | Plataforma | Jogo | Disco | Versão | Status | Download |
 |---|---|---|---|---|---|
-| Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Discos 1, 2 e 3 | 1.4 | Lançado | [Baixar a v1.4](../../releases/tag/shenmue1_v1.4) |
+| Sega Dreamcast | [Shenmue](sega-dreamcast/shenmue-1/) | Discos 1, 2 e 3 | 1.5 | Lançado | [Baixar a v1.5](../../releases/tag/shenmue1_v1.5) |
 | Sega Dreamcast | [Shenmue II](sega-dreamcast/shenmue-2/) | Discos 1, 2, 3 e 4 | 1.3 | Lançado | [Baixar a v1.3](../../releases/tag/shenmue2_v1.3) |
 | Sega Dreamcast | Phantasy Star Online Ver.2 (US v1.004) | GD-ROM | — | Em produção | — |
 
