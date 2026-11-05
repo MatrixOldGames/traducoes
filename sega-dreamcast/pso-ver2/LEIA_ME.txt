@@ -1,0 +1,114 @@
+=====================================================
+   PHANTASY STAR ONLINE VER.2 - TRADUÇÃO PT-BR
+                  VERSÃO 1.0
+              Tradução: MatrixHK
+=====================================================
+
+O QUE ESTÁ TRADUZIDO
+- Interface completa: menus, menu principal (Bolsa, Personalizar,
+  Técnicas, Chat, Opções), status do personagem, opções, mensagens do
+  sistema, salvar/carregar e cartão de memória (VMU)
+- Criação e seleção de personagem: telas, títulos, botões e descrições
+- Itens: nomes genéricos e todas as descrições de armas, proteções,
+  unidades, mags, ferramentas e itens especiais
+- Técnicas e suas descrições
+- Cidade (Pioneer 2): falas de todos os moradores e funcionários,
+  Diretor, Hunter's Guild, Loja de Armas, Loja de Proteções, Loja de
+  Itens, Tekker, Depósito e Centro Médico
+- Todas as missões offline do Hunter's Guild: lista, resumos,
+  descrições, diálogos e mensagens durante as missões
+- Floresta, Caverna, Minas e Ruínas: mensagens da Rico, cápsulas,
+  avisos e falas dos personagens pelo caminho
+- Word Select (chat por frases prontas)
+- Modo Batalha e Desafio: mensagens e resultados
+- Telas de conexão (discando, conectando etc.), títulos das janelas
+  online e o navegador/site do jogo (Dream Passport), incluindo o
+  gerenciador de arquivos do VMU e o utilitário de banda larga
+- Telas com texto desenhado: títulos das telas, legendas dos botões,
+  tela de ajuste de TV e textos dos menus
+- Créditos finais com o crédito da tradução
+- Logo do Phantasy Star Online no VMU com o selo "PT-BR"
+- Acentuação completa (á, é, ç, ã, õ etc.)
+- Capa do disco para o GDEMU
+
+
+SUPORTE A WIDESCREEN (16:9)
+O jogo roda em 16:9 com o código de widescreen ou com a opção
+"Widescreen" do Flycast. Na versão original, vários efeitos ficavam
+presos na área 4:3 do centro. Nesta tradução, eles ocupam a tela
+inteira:
+- Escurecimento das conversas, cenas e transições
+- Faixas pretas de cinema nas cenas
+- Tela de título, logos da SEGA e da Sonic Team e fundo dos menus
+- Faixas de título dos menus (Dificuldade, Modo, VMU, Opções) e a
+  tela de discagem
+Em 4:3 o jogo continua igual ao original.
+
+Código de widescreen (Flycast ou dispositivo de códigos):
+  02548E84 43D20000
+  020925A4 3FA66666
+
+
+O QUE VOCÊ PRECISA
+1. Imagem ORIGINAL e sem modificações do Phantasy Star Online Ver.2,
+   versão americana (USA, v1.004), em formato GDI ou CUE/BIN
+   (Redump). Este patch NÃO contém o jogo. Use a sua própria cópia.
+2. O programa Universal Dreamcast Patcher (gratuito).
+   https://consolemods.org/wiki/Dreamcast:Applying_ROM_Patches
+   Ou
+   https://github.com/DerekPascarella/UniversalDreamcastPatcher
+
+COMO APLICAR
+1. Abra o Universal Dreamcast Patcher.
+2. Em "Source Disc Image", escolha o arquivo .gdi (ou .cue) do
+   Phantasy Star Online Ver.2 ORIGINAL.
+3. Em "Patch File", escolha: PSO_Ver2_PTBR_1.0.dcp
+4. Clique em "Apply Patch".
+5. A imagem traduzida será criada na pasta de saída do programa.
+
+Funciona em: Dreamcast com GDEMU / MODE / USB-GDROM, e em emuladores
+(Flycast, Redream etc.).
+
+
+IDIOMA DO JOGO
+- A tradução ocupa o lugar do INGLÊS. No menu de idioma do jogo, a
+  opção que era "English" agora aparece como "Português".
+
+
+JOGANDO ONLINE
+- A tradução funciona nos servidores privados de Phantasy Star Online
+  para Dreamcast. O número de série e a chave de acesso são os mesmos
+  que você já usa no servidor.
+- Textos enviados pelo servidor aparecem no idioma do servidor. É o
+  caso dos nomes e descrições das missões para download, dos avisos e
+  dos menus próprios de cada servidor.
+- No chat, as mensagens digitadas aparecem como foram escritas. O
+  Word Select mostra as frases no idioma de quem recebe.
+
+
+OBSERVAÇÕES
+- Use sempre a imagem ORIGINAL. Aplicar sobre uma imagem já
+  modificada pode dar erro ou travar o jogo.
+- Ficaram em inglês, como nomes próprios do jogo: classes (HUmar,
+  FOnewearl, RAcast etc.), nomes de armas e itens especiais, técnicas
+  (Foie, Resta, Ryuker etc.), inimigos, Section IDs, Hunter's Guild,
+  Guild Card e Black Paper.
+- A tela "Produced by or under license from SEGA" é do console e fica
+  em inglês em todas as versões oficiais.
+- As vozes e os efeitos sonoros não foram alterados.
+- A Ver.1 do Phantasy Star Online terá a sua própria tradução.
+
+
+Encontrou algum erro de texto? Anote o local/personagem e, se possível,
+tire um print da tela e envie para MatrixHK:
+  E-mail:    matrixoldgames@gmail.com
+  Site:      matrixoldgames.com.br
+  Instagram: instagram.com/MatrixOldGames
+
+Gostou do trabalho? A tradução é gratuita. Se quiser apoiar o projeto:
+  Pix:     matrixoldgames@gmail.com (Leandro de Almeida Alonso Garcia)
+  itch.io: https://matrixoldgames.itch.io
+
+Phantasy Star Online é marca registrada da SEGA. Esta é uma tradução de
+fãs, sem fins lucrativos e sem vínculo com a SEGA. Não distribua o jogo,
+apenas o patch.
